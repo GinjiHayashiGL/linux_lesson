@@ -1,0 +1,8 @@
+Apple is red.
+Banana is yellow.
+Error: 404 Not Found
+Warning: low battery
+Success: process completed.
+123-4567-8900
+My favorite fruit is apple.
+End of file.
